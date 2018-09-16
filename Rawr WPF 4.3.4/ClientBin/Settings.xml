@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Cache>
+    <RelativeItemImageCache>Data/images</RelativeItemImageCache>
+    <RelativeTalentImageCache>Data/talent_images</RelativeTalentImageCache>
+  </Cache>
+  <General>
+    <_UIScale>0.9</_UIScale>
+    <LastVersionRun>4.3.3.0</LastVersionRun>
+    <HasSeenHelpWindow>true</HasSeenHelpWindow>
+    <AlertMeToBetaReleases>false</AlertMeToBetaReleases>
+    <UIScale>0.9</UIScale>
+    <CountGemmingsShown>3</CountGemmingsShown>
+    <UseMultithreading>false</UseMultithreading>
+    <Locale>en</Locale>
+    <DisplayBuffSource>true</DisplayBuffSource>
+    <DisplayGemNames>true</DisplayGemNames>
+    <ProcEffectMode>3</ProcEffectMode>
+    <DisplayUnusedStats>true</DisplayUnusedStats>
+    <HideProfEnchants>true</HideProfEnchants>
+    <EnforceGemRequirements>true</EnforceGemRequirements>
+    <EnforceGemRequirements_Meta>true</EnforceGemRequirements_Meta>
+    <EnforceGemRequirements_JC>true</EnforceGemRequirements_JC>
+    <EnforceGemRequirements_Unique>true</EnforceGemRequirements_Unique>
+    <DisplayInCompactMode>false</DisplayInCompactMode>
+    <CombinationEffectMode>1</CombinationEffectMode>
+    <ItemNameWidthSetting>0</ItemNameWidthSetting>
+    <WelcomeScreenSeen>true</WelcomeScreenSeen>
+    <PTRMode>false</PTRMode>
+    <UseLargeViewItemBrowser>false</UseLargeViewItemBrowser>
+    <UseRegexInItemBrowser>false</UseRegexInItemBrowser>
+    <FilterSideBarWidth>200</FilterSideBarWidth>
+    <ShowRelativeToEquipped>false</ShowRelativeToEquipped>
+  </General>
+  <Network>
+    <ProxyServer />
+    <ProxyPort>0</ProxyPort>
+    <UseDefaultProxySettings>true</UseDefaultProxySettings>
+    <ProxyUserName />
+    <ProxyPassword />
+    <MaxHttpRequests>5</MaxHttpRequests>
+    <ProxyType>None</ProxyType>
+    <UserAgent_IE7>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)</UserAgent_IE7>
+    <UserAgent_IE6>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)</UserAgent_IE6>
+    <UserAgent_FireFox2>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4</UserAgent_FireFox2>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4</UserAgent>
+    <ClassTalentURI>http://www.worldofwarcraft.com/shared/global/talents/{0}/data.js</ClassTalentURI>
+    <CharacterTalentURI>Armory.php?{0}*character-talents.xml*r={1}&amp;cn={2}</CharacterTalentURI>
+    <CharacterSheetURI>Armory.php?{0}*character-sheet.xml*r={1}&amp;cn={2}</CharacterSheetURI>
+    <ItemToolTipSheetURI>Armory.php?item-tooltip.xml*i={0}</ItemToolTipSheetURI>
+    <ItemUpgradeURI>http://{0}.wowarmory.com/search.xml?searchType=items&amp;pr={1}&amp;pn={2}&amp;pi={3}</ItemUpgradeURI>
+    <ItemInfoURI>Armory.php?item-info.xml*i={0}</ItemInfoURI>
+    <DownloadItemInfo>false</DownloadItemInfo>
+    <ProxyRequiresAuthentication>false</ProxyRequiresAuthentication>
+    <UseDefaultAuthenticationForProxy>false</UseDefaultAuthenticationForProxy>
+    <ProxyDomain />
+    <ItemWowheadURI>http://{0}.wowhead.com/?item={1}&amp;xml</ItemWowheadURI>
+    <ItemSearchURI>Armory.php?{0}*search.xml*searchQuery={1}&amp;searchType=items</ItemSearchURI>
+    <ItemWowheadUpgradeURI>http://{0}.wowhead.com/?items&amp;filter={1}</ItemWowheadUpgradeURI>
+    <WowheadIconURI>http://static.wowhead.com/images/wow/icons/{0}/{1}</WowheadIconURI>
+  </Network>
+  <Optimizer>
+    <WarningsEnabled>true</WarningsEnabled>
+    <Thoroughness>400</Thoroughness>
+    <OverrideRegem>true</OverrideRegem>
+    <CalculationToOptimize>[Overall]</CalculationToOptimize>
+    <OverrideReenchant>true</OverrideReenchant>
+    <OverrideReforge>true</OverrideReforge>
+    <OptimizationMethod>GeneticAlgorithm</OptimizationMethod>
+    <TemplateGemsEnabled>true</TemplateGemsEnabled>
+    <GreedyOptimizationMethod>SingleChanges</GreedyOptimizationMethod>
+  </Optimizer>
+  <Recent>
+    <RecentFiles>
+      <string>F:\Theorycrafting\Character Files\_fire_haste.xml</string>
+      <string>F:\Theorycrafting\Character Files\_fire_crit.xml</string>
+      <string>F:\Theorycrafting\Character Files\rep_shadow.xml</string>
+      <string>F:\Theorycrafting\Character Files\Seedah (1).xml</string>
+      <string>F:\Theorycrafting\Character Files\Kavan 85.xml</string>
+    </RecentFiles>
+    <RecentModel>Bear</RecentModel>
+    <RecentChars>
+      <string>Fateswarm</string>
+      <string>Baltha</string>
+      <string>Kavan</string>
+      <string>Abaddón</string>
+      <string>Marsha</string>
+      <string>Drak</string>
+    </RecentChars>
+    <RecentServers>
+      <string>Lightning's Blade</string>
+      <string>Twisting Nether</string>
+      <string>Kilrogg</string>
+    </RecentServers>
+    <RecentRegion>US</RecentRegion>
+    <RecentRepoChars>
+      <string>Test.Fire</string>
+      <string>US.Windrunner.Delritha.MageWithOutCycleHasteProcs</string>
+      <string>US.Windrunner.Delritha.MageWithCycleHasteProcs</string>
+      <string>US.Windrunner.Deldruid.Cat</string>
+    </RecentRepoChars>
+  </Recent>
+</Settings>
